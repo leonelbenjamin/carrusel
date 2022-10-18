@@ -1,0 +1,26 @@
+        <!-- Swiper -->
+        <div class="eventos ">
+                <!-- Swiper -->
+            <div class="swiper Swiper-eventos">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <img src="/src/EventosRecientes.png" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="/src/image 18.png" alt="">
+                    </div>
+                    <div class="swiper-slide">
+                        <img src="/src/EventosRecientes.png" alt="">
+                    </div>
+                        
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                    <div class="swiper-pagination"></div>
+                </div>
+            </div>
+            <div class="eventos-conten">
+                <b>Salida a la muestra Gaspar Lidebinsky</b>
+                <p>🎉Gracias a #DigitAR hoy visitamos la muestra "casa tomada" con su creador @gasparlibedinsky
+                    ✨Muy inspirador ver como el arte se apodera del @museodecorativo, como dialoga con los diferentes espacios y sobretodo poder conversar con el artista y después tener un workshop para profundizar conceptos. Gracias Gaspar Libendisky y gracias DigitAR por seguir inspirando a los jóvenes! 💪</p>
+            </div>
+        </div>
